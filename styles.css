@@ -36,4 +36,10 @@ body {
 
 .image-right p {
     margin-left: 5rem;
+    font-size: 2.618rem;
+}
+
+.centered-text {
+    
+    text-align: center;
 }
